@@ -6,7 +6,7 @@ title: Introduction
 date: 2023-03-03 10:18:00
 tags: about
 subclass: 'post tag-speeches'
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/KC.png'
 author: kaitlyn
 categories: about
 ---
