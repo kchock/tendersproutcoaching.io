@@ -12,5 +12,3 @@ I was born and raised on the island of Hawai’i, but I'm currently based out of
 
 I also am a storyteller and project manager specializing in sustainability in wellness. I love to complicate recipes and make things with my hands. I work with my best friend on an online food mag, [Closed Loop Cooking](https://closedloopcooking.com/), that aims to make a low-impact lifestyle accessible to any one who eats.
 
-
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
