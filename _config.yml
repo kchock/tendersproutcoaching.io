@@ -7,14 +7,14 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Kaitlyn Chock'
-description: "Hi! I'm Kaitlyn. I'm a coach for neurodivergent folks who are ready to live a more seamless life."
+name: 'Finding The Way Home'
+description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
 short_url: 'jekyllt.github.io/jasper/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /jasper/
 
 # Permalinks
 permalink: /:title
@@ -23,7 +23,6 @@ permalink: /:title
 
 # gems and other configs
 plugins: [jekyll-paginate]
-
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
