@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover4.jpg'
 navigation: True
-title: I Have a Dream
+title: Introduction
 date: 2023-03-03 10:18:00
 tags: about
 subclass: 'post tag-speeches'
