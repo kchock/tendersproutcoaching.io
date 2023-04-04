@@ -53,14 +53,14 @@ destination: ../jasper-pages/
 production_url:  https://jekyllt.github.io/jasper/
 source_url:  https://github.com/jekyllt/jasper/
 
-exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
-  - node_modules
-  - .git
+# exclude:
+#   - README.md
+#   - Rakefile
+#   - Gemfile
+#   - Gemfile.lock
+#   - changelog.md
+#   - "*.Rmd"
+#   - vendor
+#   - .travis.yml
+#   - node_modules
+#   - .git
