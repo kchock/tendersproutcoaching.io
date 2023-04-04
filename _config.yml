@@ -23,6 +23,7 @@ permalink: /:title
 
 # gems and other configs
 plugins: [jekyll-paginate]
+  - jekyll-feed
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
@@ -53,14 +54,14 @@ destination: ../jasper-pages/
 production_url:  https://jekyllt.github.io/jasper/
 source_url:  https://github.com/jekyllt/jasper/
 
-# exclude:
-#   - README.md
-#   - Rakefile
-#   - Gemfile
-#   - Gemfile.lock
-#   - changelog.md
-#   - "*.Rmd"
-#   - vendor
-#   - .travis.yml
-#   - node_modules
-#   - .git
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+  - node_modules
+  - .git
