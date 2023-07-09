@@ -2,12 +2,14 @@
 layout: page
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+title: About Kaitlyn
+logo: 'assets/images/Kaitlyn.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+Hi! I'm Kaitlyn. I'm a coach for neurodivergent folks who are ready to live a more seamless life. I am, and have always been, a cheerleader, an emotional support friend (an ESF if you will) and someone who wants to make a tangible impact in her community.
 
-We use this for testing and for reference!
+I was born and raised on the island of Hawai’i, but I'm currently based out of Brooklyn, NY. I live in the most adorable co-op imaginable and I'm that person who asks to pet every dog that walks by on the street. 
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+I also am a storyteller and project manager specializing in sustainability in wellness. I love to complicate recipes and make things with my hands. I work with my best friend on an online food mag, [Closed Loop Cooking](https://closedloopcooking.com/), that aims to make a low-impact lifestyle accessible to any one who eats.
+
