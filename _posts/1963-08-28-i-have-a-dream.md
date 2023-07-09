@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/pexels-vinta-supply-co-|-nyc-842948.jpg.jpg'
+cover: 'assets/images/pexels-vinta-supply-co-|-nyc-842948.jpg'
 navigation: True
 title: Contact Me
 date: 1963-08-28 10:18:00
